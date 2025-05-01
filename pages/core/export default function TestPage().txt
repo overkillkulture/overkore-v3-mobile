@@ -1,0 +1,7 @@
+export default function TestPage() {
+  return (
+    <div style={{ color: 'white', background: 'black', height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+      <h1>✅ Overkore Test Page is Online</h1>
+    </div>
+  );
+}
